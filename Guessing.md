@@ -36,15 +36,16 @@ flowchart TD
 ## 4. Validate Input: 
       The input provided by the user is validated to check if it's numeric and within the acceptable range.
 
-### - If Yes: The game proceeds to check the user’s guess.
-### - If No: An error message is displayed, indicating that the input is invalid. The user is prompted to enter their guess again.
+     - If Yes: The game proceeds to check the user’s guess.
+     - If No: An error message is displayed, indicating that the input is invalid. The user is prompted to enter their guess again.
 ## 5. Check User Guess: The program compares the user’s guess to the generated random number.
 
-### - If Correct: A message is displayed confirming the guess is correct, and the user is prompted to play again.
-### - If Too High: A message is displayed indicating the guess is too high, and the user is prompted to guess again.
-### - If Too Low: A message is displayed indicating the guess is too low, and the user is prompted to guess again.
+     - If Correct: A message is displayed confirming the guess is correct, and the user is prompted to play again.
+     - If Too High: A message is displayed indicating the guess is too high, and the user is prompted to guess again.
+     - If Too Low: A message is displayed indicating the guess is too low, and the user is prompted to guess again.
 
 ## 6. Play Again?: The user is asked if they would like to play again.
 
-### - If Yes: The program returns to the random number generation step.
-### - If No: The game ends.
+     - If Yes: The program returns to the random number generation step.
+     - If No: The game ends.
+    
