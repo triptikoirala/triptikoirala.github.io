@@ -2,13 +2,16 @@
 I am the type of person who believes in starting now, if not now then when ? I thrive on taking action and embracing opportunites in the moment. I also find that studying and learning new things keep me feeling youthful and energized.
 
 ## My Interests
-  ### 1. Fitness and Well-being : working out regulary helps me to stay fresh and focused, both mentally and physically.
-  ### 2. Lifelong Learning : Studying makes me feel younger, and I'm always keen to dive into new subjects, idea, and experinces.
-  ### 3. Technology and Research : I enjoy using innovative tools to stay informed and make life more efficient.
+  ### 1. Fitness and Well-being :
+      working out regulary helps me to stay fresh and focused, both mentally and physically.
+  ### 2. Lifelong Learning : 
+      Studying makes me feel younger, and I'm always keen to dive into new subjects, idea, and experinces.
+  ### 3. Technology and Research : 
+      I enjoy using innovative tools to stay informed and make life more efficient.
   
 ## Websits I Recommend
-  ### - [LinkedIn] (https://www.linkedin.com) - A great platform for connecting with professionals and discovering oppertunities for growth.
-  ### - [Google] (https://google.com) - An indispensable tool for  researching and finding information on any topic.
+  - [LinkedIn] (https://www.linkedin.com) - A great platform for connecting with professionals and discovering oppertunities for growth.
+   - [Google] (https://google.com) - An indispensable tool for  researching and finding information on any topic.
   
 
 
