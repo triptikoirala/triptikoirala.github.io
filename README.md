@@ -3,7 +3,7 @@ I am the type of person who believes in starting now, if not now then when ? I t
 
 ## My Interests
   ### 1. Fitness and Well-being :
-      working out regulary helps me to stay fresh and focused, both mentally and physically.
+      Working out regulary helps me to stay fresh and focused, both mentally and physically.
   ### 2. Lifelong Learning : 
       Studying makes me feel younger, and I'm always keen to dive into new subjects, idea, and experinces.
   ### 3. Technology and Research : 
